@@ -1,6 +1,6 @@
 # CustomLibft
 
-A comprehensive C library containing a re-implementation of many standard C library functions, along with additional utility functions. This project is a core requirement of the **42 school curriculum** (Topic: `42glancell`), designed to strengthen understanding of C programming concepts, memory management, and data structures.
+A comprehensive C library containing a re-implementation of many standard C library functions, along with additional utility functions. This project is designed to strengthen understanding of C programming concepts, memory management, and data structures.
 
 ---
 
